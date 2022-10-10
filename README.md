@@ -1,5 +1,5 @@
 # Text Classification: BBC-News data set
-The goal of the project was to implement a **Deep Neural Network**, using **TensorFlow**, to classify different news articles..  
+The goal of the project was to implement a **Deep Neural Network**, using **TensorFlow**, to classify different news articles.
 
 This assignment is part of the "DeepLearning.AI TensorFlow Developer" course.
 
